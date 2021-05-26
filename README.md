@@ -7,7 +7,7 @@ Currently I am working on the final version of Vitae, which will be
 version 3. 
 
 If you want to test the version while it is still in
-development, just use the git "develop" branch.
+development, just use the git "develop" branch. 
 
 But if you encounter a bug or problem, consider writing an issue.
 
